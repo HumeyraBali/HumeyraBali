@@ -1,5 +1,6 @@
 <h3 align="left">Aynur Hümeyra Bali</h3>
 <h2 align="left">Software Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 -  Hello! I am a passionate software developer focused on learning Game development. Thanks to my school and work experience, I have a strong background in AI/ML. I'm excited to apply my skills to game development, merging AI with immersive experiences.
    Let's connect and collaborate on exciting projects that push the boundaries of technology!
